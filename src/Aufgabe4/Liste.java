@@ -1,6 +1,6 @@
 package Aufgabe4;
 
-public class Liste<T> {
+public class Liste<T> { // T- --> Platzhalter für Datentypen
 
     T[] array;
 
